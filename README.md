@@ -1,5 +1,5 @@
-# Twitter
-# Twitter - Réseau Social Minimaliste
+# Tweetly
+# Tweetly - Réseau Social Minimaliste
 
 Bienvenue sur **Tweetly**, un projet de réseau social minimaliste inspiré de Twitter. Ce projet permet aux utilisateurs de s'inscrire, se connecter, publier des tweets, suivre d'autres utilisateurs, envoyer des messages privés, et bien plus encore.
 
