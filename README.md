@@ -55,8 +55,7 @@ MySQL
 Contributions
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, n'hésitez pas à soumettre une pull request ou à ouvrir une issue.
 
-Auteur
-Ce projet a été réalisé par [Votre Nom]. Si vous avez des questions, vous pouvez me contacter à votre.email@example.com.
+
 
 Licence
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, le modifier et le distribuer.
