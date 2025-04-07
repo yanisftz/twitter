@@ -33,11 +33,12 @@ Créez une base de données MySQL.
 Importez le fichier SQL fourni (par exemple, database.sql).
 Configurez la connexion à la base de données dans src/Database.php :
 
-<?php
+```<?php
 private $host = 'localhost';
 private $db_name = 'nom_de_votre_base';
 private $username = 'votre_utilisateur';
 private $password = 'votre_mot_de_passe';
+```
 
 npm install
 npx tailwindcss -i ./assets/tailwind/input.css -o ./assets/tailwind/output.css --watch
